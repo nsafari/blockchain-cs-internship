@@ -1,0 +1,7 @@
+﻿|        | blockchain                                           | web3                                        | javascript/typescript                 | linux environment | git | Typingclub |
+|--------|------------------------------------------------------|---------------------------------------------|---------------------------------------|-------------------|-----|------------|
+| step_0 | Primitives<br>Block<br>Mining<br>Consensus mechanism |                                             |                                       |                   |     |            |
+| step_1 | Ethereum<br>History<br>EVM                           | Wallet<br>Account<br>Transaction            |                                       |                   |     |            |
+| step_2 | dApp                                                 |                                             | Fundamental<br>Functional Programming |                   |     |            |
+| step_3 | Development frameworks<br>Smart contract<br>Solidity | Development frameworks<br>Web3.js/ethers.js |                                       |                   |     |            |
+| step_4 | Exploits and Dangers<br>Optimization<br>Test         | Test                                        |                                       |                   |     |            |
